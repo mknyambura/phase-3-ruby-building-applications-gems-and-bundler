@@ -1,3 +1,5 @@
+# require_relative '../config/environment.rb'
+
 describe "Bundler" do
 
   describe "Gemfile" do
